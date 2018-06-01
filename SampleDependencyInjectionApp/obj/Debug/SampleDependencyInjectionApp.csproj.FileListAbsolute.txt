@@ -1,0 +1,7 @@
+c:\users\imoshika\source\repos\SampleDependencyInjectionApp\SampleDependencyInjectionApp\bin\Debug\SampleDependencyInjectionApp.exe.config
+c:\users\imoshika\source\repos\SampleDependencyInjectionApp\SampleDependencyInjectionApp\bin\Debug\SampleDependencyInjectionApp.exe
+c:\users\imoshika\source\repos\SampleDependencyInjectionApp\SampleDependencyInjectionApp\bin\Debug\SampleDependencyInjectionApp.pdb
+c:\users\imoshika\source\repos\SampleDependencyInjectionApp\SampleDependencyInjectionApp\obj\Debug\SampleDependencyInjectionApp.csprojResolveAssemblyReference.cache
+c:\users\imoshika\source\repos\SampleDependencyInjectionApp\SampleDependencyInjectionApp\obj\Debug\SampleDependencyInjectionApp.csproj.CoreCompileInputs.cache
+c:\users\imoshika\source\repos\SampleDependencyInjectionApp\SampleDependencyInjectionApp\obj\Debug\SampleDependencyInjectionApp.exe
+c:\users\imoshika\source\repos\SampleDependencyInjectionApp\SampleDependencyInjectionApp\obj\Debug\SampleDependencyInjectionApp.pdb
